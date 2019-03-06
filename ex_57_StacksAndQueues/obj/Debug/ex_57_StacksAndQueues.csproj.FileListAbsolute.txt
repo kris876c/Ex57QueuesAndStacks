@@ -1,0 +1,7 @@
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\obj\Debug\ex_57_StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\obj\Debug\ex_57_StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\bin\Debug\ex_57_StacksAndQueues.exe.config
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\bin\Debug\ex_57_StacksAndQueues.exe
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\bin\Debug\ex_57_StacksAndQueues.pdb
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\obj\Debug\ex_57_StacksAndQueues.exe
+C:\Users\krisb\source\repos\ex_57_StacksAndQueues\ex_57_StacksAndQueues\obj\Debug\ex_57_StacksAndQueues.pdb
